@@ -1,0 +1,26 @@
+[
+  {
+    "codigo": "1",
+    "descripcion": "sss",
+    "unidad": "unidad",
+    "cantidad": 5.0,
+    "marca": "f",
+    "fecha_elaboracion": "2025-01-23",
+    "fecha_vencimiento": "27-01-23",
+    "peligrosidad": "b",
+    "temperatura": "a",
+    "manipulacion": "n",
+    "ubicacion": "l9",
+    "lote": "888",
+    "stock_minimo": 5,
+    "proveedor": "sss",
+    "contacto_proveedor": "ssssss",
+    "fecha_adquisicion": "2026-01-29",
+    "forma_pago": "efe",
+    "guia_despacho": "230",
+    "fecha_ingreso": "2026-01-30 20:41:42",
+    "usuario_ingreso": "admin001",
+    "estado": "Conforme sin observaciones",
+    "observaciones": ""
+  }
+]

@@ -1,0 +1,11 @@
+{"timestamp": "2026-01-30 19:36:31", "usuario": "admin001", "accion": "INICIO_SESION", "descripcion": "Sesión iniciada"}
+{"timestamp": "2026-01-30 19:36:52", "usuario": "admin001", "accion": "INICIO_SESION", "descripcion": "Sesión iniciada"}
+{"timestamp": "2026-01-30 19:36:52", "usuario": "admin001", "accion": "CIERRE_SESION", "descripcion": "Sesión finalizada desde menú"}
+{"timestamp": "2026-01-30 19:36:52", "usuario": "admin001", "accion": "CIERRE_SESION", "descripcion": "Sesión finalizada"}
+{"timestamp": "2026-01-30 19:48:33", "usuario": "admin001", "accion": "INICIO_SESION", "descripcion": "Sesión iniciada"}
+{"timestamp": "2026-01-30 19:57:34", "usuario": "admin001", "accion": "INICIO_SESION", "descripcion": "Sesión iniciada"}
+{"timestamp": "2026-01-30 19:57:34", "usuario": "admin001", "accion": "CIERRE_SESION", "descripcion": "Sesión finalizada desde menú"}
+{"timestamp": "2026-01-30 19:57:34", "usuario": "admin001", "accion": "CIERRE_SESION", "descripcion": "Sesión finalizada"}
+{"timestamp": "2026-01-30 20:35:12", "usuario": "admin001", "accion": "INICIO_SESION", "descripcion": "Sesión iniciada como Administrador"}
+{"timestamp": "2026-01-30 20:40:04", "usuario": "admin001", "accion": "INICIO_SESION", "descripcion": "Sesión iniciada como Administrador"}
+{"timestamp": "2026-01-30 20:46:30", "usuario": "admin001", "accion": "INICIO_SESION", "descripcion": "Sesión iniciada como Administrador"}

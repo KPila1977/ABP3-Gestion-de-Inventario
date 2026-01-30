@@ -1,0 +1,67 @@
+{
+  "admin001": {
+    "id": "admin001",
+    "nombre": "ADMIN",
+    "apellido_paterno": "SISTEMA",
+    "apellido_materno": "",
+    "run": "12345678",
+    "email": "admin@empresa.cl",
+    "telefono": "+56912345678",
+    "rol": "Administrador",
+    "contrasena": "Admin123",
+    "fecha_registro": "2026-01-30 19:35:07",
+    "activo": true
+  },
+  "super001": {
+    "id": "super001",
+    "nombre": "SUPERVISOR",
+    "apellido_paterno": "PRUEBA",
+    "apellido_materno": "",
+    "run": "87654321",
+    "email": "supervisor@empresa.cl",
+    "telefono": "+56987654321",
+    "rol": "Supervisor",
+    "contrasena": "Super123",
+    "fecha_registro": "2026-01-30 19:35:07",
+    "activo": true
+  },
+  "digit001": {
+    "id": "digit001",
+    "nombre": "DIGITADOR",
+    "apellido_paterno": "PRUEBA",
+    "apellido_materno": "",
+    "run": "11222333",
+    "email": "digitador@empresa.cl",
+    "telefono": "+56911222333",
+    "rol": "Digitador",
+    "contrasena": "Digit123",
+    "fecha_registro": "2026-01-30 19:35:07",
+    "activo": true
+  },
+  "bode001": {
+    "id": "bode001",
+    "nombre": "BODEGUERO",
+    "apellido_paterno": "PRUEBA",
+    "apellido_materno": "",
+    "run": "44555666",
+    "email": "bodeguero@empresa.cl",
+    "telefono": "+56944555666",
+    "rol": "Bodeguero",
+    "contrasena": "Bode123",
+    "fecha_registro": "2026-01-30 19:35:07",
+    "activo": true
+  },
+  "user001": {
+    "id": "user001",
+    "nombre": "USUARIO",
+    "apellido_paterno": "PRUEBA",
+    "apellido_materno": "",
+    "run": "77888999",
+    "email": "usuario@empresa.cl",
+    "telefono": "+56977888999",
+    "rol": "Usuario",
+    "contrasena": "User123",
+    "fecha_registro": "2026-01-30 19:35:07",
+    "activo": true
+  }
+}
