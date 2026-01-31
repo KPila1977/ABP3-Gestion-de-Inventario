@@ -2,13 +2,6 @@
 
 Sistema modular de gestión de productos desarrollado en Python, diseñado para una empresa de tecnología que busca automatizar sus procesos internos.
 
-ID	Rol	Usuario	Contraseña
-admin001	Administrador	admin@empresa.cl	Admin123
-super001	Supervisor	supervisor@empresa.cl	Super123
-digit001	Digitador	digitador@empresa.cl	Digit123
-bode001	Bodeguero	bodeguero@empresa.cl	Bode123
-user001	Usuario	usuario@empresa.cl	User123
-
 ## Características Principales
 
 ### 1. Gestión de Usuarios con Roles
@@ -59,4 +52,9 @@ mi_proyecto/
 └── README.md # Este archivo
 
 El sistema incluye usuarios preconfigurados para pruebas:
-
+ID	Rol	Usuario	Contraseña
+admin001	Administrador	admin@empresa.cl	Admin123
+super001	Supervisor	supervisor@empresa.cl	Super123
+digit001	Digitador	digitador@empresa.cl	Digit123
+bode001	Bodeguero	bodeguero@empresa.cl	Bode123
+user001	Usuario	usuario@empresa.cl	User123
