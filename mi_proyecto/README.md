@@ -59,3 +59,19 @@ super001	Supervisor	supervisor@empresa.cl	Super123
 digit001	Digitador	digitador@empresa.cl	Digit123
 bode001	Bodeguero	bodeguero@empresa.cl	Bode123
 user001	Usuario	usuario@empresa.cl	User123
+
+## Instalación y Uso
+
+1. **Crear estructura de carpetas:**
+   ```bash
+   mkdir mi_proyecto
+   cd mi_proyecto
+   mkdir modules data logs
+Copiar los archivos:
+
+Colocar cada archivo .py en su carpeta correspondiente
+
+Ejecutar el sistema:
+
+bash
+python main.py
