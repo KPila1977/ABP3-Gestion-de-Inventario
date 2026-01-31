@@ -57,6 +57,7 @@ admin001	Administrador	admin@empresa.cl	Admin123
 super001	Supervisor	supervisor@empresa.cl	Super123
 digit001	Digitador	digitador@empresa.cl	Digit123
 bode001	Bodeguero	bodeguero@empresa.cl	Bode123
+user001	Usuario	usuario@empresa.cl	User123
 
 ## Instalación y Uso
 
@@ -73,4 +74,4 @@ Ejecutar el sistema:
 
 bash
 python main.py
-user001	Usuario	usuario@empresa.cl	User123
+
